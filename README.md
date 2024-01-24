@@ -6,7 +6,7 @@ $ git clone https://github.com/YunSang123/rover.git \
 $ cd catkin_ws \
 $ catkin_make 
 
-// roslaunch
+// roslaunch \
 $ roslaunch rover bringup.launch \
 $ roslaunch rover controller.launch \
 $ roslaunch rover rover_teleop_keyboard.launch
